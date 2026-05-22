@@ -4,7 +4,7 @@
 
 This repository contains a pipeline to extract ITS sequences from the fungi genome assembly, align against UNITE+INSDC database, and scripts to summarise ITS BLASTN results and compare the inferred taxonomic identification with the original sample metadata.
 
-![ITS_ID_flowchart](ihttps://github.com/Hazelhuangup/ITS_ID/blob/dev/images/ITS_ID_flowchart.pdf)
+![ITS_ID_flowchart](https://github.com/Hazelhuangup/ITS_ID/blob/dev/images/ITS_ID_flowchart.pdf)
 
 This workflow was developed for the [Fungarium Sequencing Project (FSP)](https://www.kew.org/science/our-science/projects/sequencing-kews-fungarium) at Royal Botanic Gardens, Kew.
 
