@@ -1,0 +1,9 @@
+cff-version: 1.0
+message: "If you use this pipeline, please cite it as below."
+authors:
+- family-names: Huang
+  given-names: Wu
+orcid: https://orcid.org/0000-0002-5015-7167
+title:Hazelhuangup/ITS_ID: First release
+version: 1.0
+date-released: 
